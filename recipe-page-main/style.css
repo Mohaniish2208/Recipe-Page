@@ -1,0 +1,86 @@
+#main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    background-color: hsl(30, 54%, 90%);
+    width: 1440px;
+    height: 100%;
+}
+
+#container{
+    box-sizing: border-box;
+    max-width: 670px;
+    width: 100%;
+    background-color: white;
+    padding: 30px;
+    border-radius: 15px;
+    margin: 20px;
+    font-style: normal;
+}
+
+#mainimg{
+    height: 250px;
+    width: 100%;
+    border-radius: 15px;
+}
+
+#heading{
+    font-family: "Young Serif", serif;
+    font-weight: 700;
+}
+
+#redHead{
+    font-family: "Outfit", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    color: hsl(332, 51%, 32%);
+}
+
+#red{
+    padding: 30px;
+    background-color: hsl(330, 100%, 98%);
+    border-radius: 10px;
+}
+
+#redList{
+    margin-left: 15px;
+}
+
+#ingredients, #instructions{
+    border-bottom: 1px solid black;
+}
+
+#para, #redList, #instList, #ingrList, #nutriPara, #nutriFacts{
+    font-family: "Outfit", sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 1.7;
+}
+
+#listHead{
+    font-family: "Young Serif", serif;
+    color: hsl(14, 45%, 36%);
+}
+
+#nutriFacts{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+    color: hsl(14, 45%, 36%);
+
+}
+
+#nutriFacts tr{
+    margin-top: 10px;
+    border-bottom: 1px black solid;
+}
+
+#nutriFacts tr:last-child {
+    border-bottom: none;
+}
+
+.value{
+    font-weight: 600;
+}
