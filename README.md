@@ -14,9 +14,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -26,8 +23,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: https://github.com/Mohaniish2208/Recipe-Page
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution] (https://github.com/Mohaniish2208/Recipe-Page)
+- Live Site URL: [Live Page](https://mohaniish2208.github.io/Recipe-Page/)
 
 ## My process
 
@@ -74,7 +71,7 @@ Adding table and then being able to control it through the elements was my first
 
 ### Continued development
 
-No matter how good we are, there is always a scope for improvments and while working on this project I got to know something new as mentioned above. I am excited to keep learning new methods and be the best version of myself.
+No matter how good we are with our skills, I believe, there is always a scope for improvments and while working on this project I got to know something new as mentioned above. I am excited to keep learning new methods and be the best version of myself.
 
 ### Useful resources
 
