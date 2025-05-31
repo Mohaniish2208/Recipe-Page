@@ -49,7 +49,7 @@
 }
 
 #ingredients, #instructions{
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid  rgba(0, 0, 0, 0.2);
 }
 
 #para, #redList, #instList, #ingrList, #nutriPara, #nutriFacts{
@@ -73,8 +73,9 @@
 }
 
 #nutriFacts tr{
+    line-height: 2.5;
     margin-top: 10px;
-    border-bottom: 1px black solid;
+    border-bottom: 1px rgba(0, 0, 0, 0.2) solid;
 }
 
 #nutriFacts tr:last-child {
